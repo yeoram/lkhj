@@ -55,10 +55,3 @@ driver.quit()
 
 #main_pack > div.sc_new.cs_common_module.case_list.color_5._au_movie_list_content_wrap > div.cm_content_wrap > div > div > div > div.card_content._result_area > div.card_area._panel > div > div.data_area > div > div.title._ellipsis
 
-'''
-TODO-LIST 5월말 ~
-1. 날씨 작업(주영씨)
-2. 스타일관련(주영씨)
-3. 음식점관련 크롤링/놀이공원(은정씨)
-4. git, jira, naver, insta(은주씨)
-'''
